@@ -1,0 +1,9 @@
+E:\leetcode\Algorithm\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe.config
+E:\leetcode\Algorithm\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe
+E:\leetcode\Algorithm\BinarySearch\BinarySearch\bin\Debug\BinarySearch.pdb
+E:\leetcode\Algorithm\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csprojResolveAssemblyReference.cache
+E:\leetcode\Algorithm\BinarySearch\BinarySearch\obj\Debug\BinarySearch.exe
+E:\leetcode\Algorithm\BinarySearch\BinarySearch\obj\Debug\BinarySearch.pdb
+E:\leetcode\Algorithm\Searching\BinarySearch\bin\Debug\BinarySearch.exe.config
+E:\leetcode\Algorithm\Searching\BinarySearch\obj\Debug\BinarySearch.exe
+E:\leetcode\Algorithm\Searching\BinarySearch\obj\Debug\BinarySearch.pdb
