@@ -1,0 +1,14 @@
+
+*.cache
+*.lock
+*.ide
+*.ide-shm
+*.ide-wal
+*.xml
+BinarySearch/obj/Debug/BinarySearch.csproj.FileListAbsolute.txt
+BinarySearch/obj/Debug/BinarySearch.exe
+BinarySearch/obj/Debug/BinarySearch.csproj.FileListAbsolute.txt
+*.pdb
+*.exe
+BinarySearch/obj/Debug/BinarySearch.csproj.FileListAbsolute.txt
+BinarySearch/obj/Debug/BinarySearch.csproj.FileListAbsolute.txt

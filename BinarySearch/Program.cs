@@ -10,9 +10,10 @@ namespace BinarySearch
     {
         static void Main(string[] args)
         {
-            List<int> nums = new List<int>{1,2,3,4,5,6,7,8};
+            List<int> nums = new List<int>{5};
             int target = 5;
-            int pos = Recursive.RecursiveBinarySearch(nums, target);
+			//int pos = Recursive.RecursiveBinarySearch(nums, target);
+			int pos = Iterative.IterativeBinarySearch(nums, target);
             Console.WriteLine(target);
         }
     }
