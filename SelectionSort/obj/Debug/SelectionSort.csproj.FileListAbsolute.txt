@@ -1,0 +1,6 @@
+/Users/tianhang/Documents/Algorithm/Searching/SelectionSort/bin/Debug/SelectionSort.exe
+/Users/tianhang/Documents/Algorithm/Searching/SelectionSort/bin/Debug/SelectionSort.pdb
+/Users/tianhang/Documents/Algorithm/Searching/SelectionSort/obj/Debug/SelectionSort.csprojAssemblyReference.cache
+/Users/tianhang/Documents/Algorithm/Searching/SelectionSort/obj/Debug/SelectionSort.csproj.CoreCompileInputs.cache
+/Users/tianhang/Documents/Algorithm/Searching/SelectionSort/obj/Debug/SelectionSort.exe
+/Users/tianhang/Documents/Algorithm/Searching/SelectionSort/obj/Debug/SelectionSort.pdb

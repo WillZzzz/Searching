@@ -1,4 +1,12 @@
-
+BinarySearch/obj/Debug/BinarySearch.exe
+*.pdb
+*.cache
+BinarySearch/bin/Debug/BinarySearch.exe
+.vs/Searching/xs/UserPrefs.xml
+*.ide-wal
+*.ide-shm
+*.ide
+*.lock
 *.cache
 *.lock
 *.ide

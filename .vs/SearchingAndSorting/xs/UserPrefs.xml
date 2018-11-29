@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{E7920181-03FD-411D-9615-EC65080B4070}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BinarySearch/Iterative.cs">
+    <Files>
+      <File FileName="BinarySearch/Recursive.cs" Line="1" Column="1" />
+      <File FileName="SelectionSort/Program.cs" Line="12" Column="43" />
+      <File FileName="BinarySearch/Program.cs" Line="1" Column="1" />
+      <File FileName="BinarySearch/Iterative.cs" Line="13" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/tianhang/Documents/Algorithm/Searching/BinarySearch/Program.cs" relfile="BinarySearch/Program.cs" line="15" column="1" />
+      <Breakpoint file="/Users/tianhang/Documents/Algorithm/Searching/SelectionSort/Program.cs" relfile="SelectionSort/Program.cs" line="12" column="43" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SelectionSort PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BinarySearch PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
